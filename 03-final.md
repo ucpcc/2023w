@@ -17,7 +17,7 @@ Hello, BOJ 2024!는 Good Bye, BOJ 2023!에서 부정행위 검사를 마치고 �
 
 ## 장소
 
-LG사이언스파크 ISC동([네이버맵](https://map.naver.com/p/entry/place/1550360386))
+LG사이언스파크 ISC동 6층 비전홀 ([네이버맵](https://map.naver.com/p/entry/place/1550360386))
 
 - 가급적 대중교통을 이용하시기 바랍니다.
 

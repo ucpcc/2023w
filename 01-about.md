@@ -29,7 +29,7 @@ Hello, BOJ 2024! 대회의 경우 온라인 미러 또한 함께 운영됩니다
 
 ### Hello, BOJ 2024!
 
-**1월 14일 (일)** 13:00–19:00 — [LG사이언스파크 ISC동](https://map.naver.com/p/entry/place/1550360386) 6층 비전홀 &middot; 낙성대역 2호선에서 관악02 버스 탑승
+**1월 14일 (일)** 13:00–19:00 — [LG사이언스파크 ISC동](https://map.naver.com/p/entry/place/1550360386) 6층 비전홀
 
 ## 참가 자격
 

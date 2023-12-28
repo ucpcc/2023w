@@ -5,6 +5,7 @@ title: 2023/2024 겨울대회
 
 ## 주요 공지
 
+- (12/28) 참가 신청의 실시간 승인 결과를 [확인 가능](https://docs.google.com/spreadsheets/d/1TMFI8ZHgWWplYWSwwQBsJ-hxGey6ssD_cj8Rfk6DKq0/edit?usp=sharing)합니다.
 - (12/27) Good Bye, BOJ 2023!의 참가 신청을 받기 시작합니다. 참가 신청은 12월 29일 오전 11시 59분까지 가능합니다. [참가 신청 링크](https://forms.gle/qyn2tvys5FcRivm58)
 - (12/25) 전대프연이 알고리즘 문제해결 커뮤니티와 함께 2023/2024 겨울대회를 개최합니다!
   - 2023 송년 대회: Good Bye, BOJ 2023!

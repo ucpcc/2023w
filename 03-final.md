@@ -75,7 +75,7 @@ LG사이언스파크 ISC동 6층 비전홀 ([네이버맵](https://map.naver.com
 - Java: [https://docs.oracle.com/en/java/javase/index.html](https://docs.oracle.com/en/java/javase/index.html)
 - Kotlin: [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
 - Python: [https://docs.python.org/3/](https://docs.python.org/3/)
-- Rust: [https://doc.rust-lang.org/reference/](https://doc.rust-lang.org/reference/)
+- Rust: [https://doc.rust-lang.org/std/](https://doc.rust-lang.org/std/)
 
 ### 사용 가능한 프로그래밍 도구
 
